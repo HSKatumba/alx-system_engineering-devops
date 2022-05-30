@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 're-directions'
+git commit -m 'smiley'
 git push
