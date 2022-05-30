@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'smiley'
+git commit -m 'twofiles'
 git push
