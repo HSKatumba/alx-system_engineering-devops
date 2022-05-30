@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'twofiles'
+git commit -m 'last10'
 git push
