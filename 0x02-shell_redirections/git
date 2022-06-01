@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'ls_cwd_content'
+git commit -m '.js'
 git push
